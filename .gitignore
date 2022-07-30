@@ -29,7 +29,3 @@ codegen/
 
 # Octave session info
 octave-workspace
-
-# Simulation results
-img/
-mov/
