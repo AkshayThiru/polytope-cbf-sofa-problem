@@ -2,7 +2,7 @@
 A repository for implementing Polytope-CBF for the sofa problem, which involves moving a sofa through a corridor.
 
 ### Dependencies
-The following libraries are needed: [MPT3](https://www.mpt3.org/Main/HomePage), and [IPOPT](https://projects.coin-or.org/Ipopt/wiki/MatlabInterface).
+The following libraries are used: [MPT3](https://www.mpt3.org/Main/HomePage) (only needed for snapshots and animations), and [IPOPT](https://projects.coin-or.org/Ipopt/wiki/MatlabInterface).
 A .zip file for IPOPT is included in packages/.
 
 ### Publications
